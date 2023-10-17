@@ -1,0 +1,203 @@
+body{
+   	font-family:Vni-time;
+	width: 791px;
+	margin: 0px auto;
+	
+}
+
+#banner{
+	height: 97px;
+	text-align: center;
+	font-size: 20px;
+}
+#menu_top{
+	background-image: url(image/menu.jpg); 
+	height: 26px;
+}
+#main #content{
+
+	width: 494px;
+	height: 300px;
+	border: solid transparent;
+	float: left;
+	text-align: left;
+	color: black;
+}
+#main #right_col{
+
+	width: 285px;
+	height: 300px;
+	border: solid transparent;
+	float: left;
+	text-align: left;
+	color: black;
+}
+#footer{
+	background-image: url(image/menu.jpg);
+	width: 791px;
+	height: 26px;
+	clear: left;
+}  
+#menu_top ul{
+	margin: 0px;
+	padding: 0px;
+} 
+#menu_top ul li{
+	List-style: none;
+	float: left;
+}  
+#menu_top ul li a{
+	display: block;
+	height: 26px;
+	line-height: 26px;
+	border-right: 2px solid #f1f1f1;
+	padding: 0px 10px 0px 10px;
+	text-align: center;
+} 
+#menu_top ul li a:hover{
+	background: blue;
+	color: #f1f1f1;
+}  
+#main #content ul{
+	margin: 0px;
+	padding: 0px;
+}
+#main #right_col ul{
+	margin: 0px;
+	padding: 0px;
+}
+#main #content ul li{
+	list-style: none;
+} 
+#main #right_col ul li{
+	list-style: none;
+}
+#main #content #content1{
+	background-image: url(image/traitren.gif);
+	width: 10px;
+	height: 30px;
+	float: left;
+	text-align: left;
+}
+#main #content #content2{
+	background-image: url(image/ngangtren.gif);
+	width: 474px;
+	height: 30px;
+	float: left;
+	text-align: left;
+}
+#main #content #content3{
+	background-image: url(image/phaitren.gif);
+	width: 10px;
+	height: 30px;
+	float: left;
+	text-align: left;
+}
+#main #content #content4{
+	background-image: url(image/traidoc.gif);
+	width: 10px;
+	height: 261px;
+	float: left;
+	text-align: left;
+}
+#main #content #content5{
+	background: white;
+	width: 474px;
+	height: 261px;
+	float: left;
+	text-align: left;
+	color: #333;
+}
+#main #content #content6{
+	background-image: url(image/phaidoc.gif);
+	width: 10px;
+	height: 261px;
+	float: left;
+	text-align: left;
+}
+#main #content #content7{
+	background-image: url(image/traiduoi.gif);
+	width: 10px;
+	height: 9px;
+	float: left;
+	text-align: left;
+}
+#main #content #content8{
+	background-image: url(image/ngangduoi.gif);
+	width: 474px;
+	height: 9px;
+	float: left;
+	text-align: left;
+}
+#main #content #content9{
+	background-image: url(image/phaiduoi.gif);
+	width: 10px;
+	height: 9px;
+	float: left;
+	text-align: left;
+}
+#main #right_col #content10{
+	background-image: url(image/traitren.gif);
+	width: 10px;
+	height: 30px;
+	float: left;
+	text-align: left;
+}
+#main #right_col #content11{
+	background-image: url(image/ngangtren.gif);
+	width: 265px;
+	height: 30px;
+	float: left;
+	text-align: left;
+}
+#main #right_col #content12{
+	background-image: url(image/phaitren.gif);
+	width: 10px;
+	height: 30px;
+	float: left;
+	text-align: left;
+}
+#main #right_col #content13{
+	background-image: url(image/traidoc.gif);
+	width: 10px;
+	height: 261px;
+	float: left;
+	text-align: left;
+}
+#main #right_col #content14{
+	background: white;
+	width: 265px;
+	height: 261px;
+	float: left;
+	text-align: left;
+	color: #333;
+}
+#main #right_col #content15{
+	background-image: url(image/phaidoc.gif);
+	width: 10px;
+	height: 261px;
+	float: left;
+	text-align: left;
+}
+#main #right_col #content16{
+	background-image: url(image/traiduoi.gif);
+	width: 10px;
+	height: 9px;
+	float: left;
+	text-align: left;
+}
+#main #right_col #content17{
+	background-image: url(image/ngangduoi.gif);
+	width: 265px;
+	height: 9px;
+	float: left;
+	text-align: left;
+}
+#main #right_col #content18{
+	background-image: url(image/phaiduoi.gif);
+	width: 10px;
+	height: 9px;
+	float: left;
+	text-align: left;
+}
+
